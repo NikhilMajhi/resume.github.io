@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    background-color: brown;
+}
+h2 {
+    text-align: right;
+    background-color: black;
+    color: white;
+    width: auto;
+}
+h3 {
+    text-align: justify;
+    border: 2px dashed red;
+}
